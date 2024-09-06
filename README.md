@@ -1,5 +1,6 @@
 # smartcache
 A high-performance, multifunctional cache library for Go
+Support go version 1.22+
 # function
 Storage: 0gc, shard storage optimized for lock performance, supports autonomous capacity expansion
 
